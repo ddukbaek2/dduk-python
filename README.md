@@ -15,6 +15,8 @@
 ### dduk-utility
 > 유틸리티 라이브러리
 
-
 ### dduk-application
+> 애플리케이션 라이브러리
+
 ### dduk-application-template
+> 애플리케이션 라이브러리 샘플
